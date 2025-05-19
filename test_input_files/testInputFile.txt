@@ -1,0 +1,12 @@
+Name: George Papas
+AFM: 123456789
+Receipt ID: 1
+Date: 21/12/2023
+Kind: Coats
+Sales: 76.0
+Items: 5
+Company: Nike
+Country: Greece
+City: Ioannina
+Street: Zerva
+Number: 10

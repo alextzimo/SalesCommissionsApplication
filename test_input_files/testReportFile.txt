@@ -1,0 +1,10 @@
+Name: George Papas
+AFM: 123456789
+
+
+Total Sales: 76.0
+Trousers Sales: 0.0
+Skirts Sales: 0.0
+Shirts Sales: 0.0
+Coats Sales: 5.0
+Commission: 0.0

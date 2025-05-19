@@ -1,0 +1,18 @@
+<Agent>
+  <Name>George Papas</Name>
+  <AFM>123456789</AFM>
+  <Receipts>
+  <Receipt>
+    <ReceiptID>1</ReceiptID>
+    <Date>21/12/2023</Date>
+    <Kind>Coats</Kind>
+    <Sales>76.0</Sales>
+    <Items>5</Items>
+    <Company> Nike </Company>
+    <Country>Greece</Country>
+    <City>Ioannina</City>
+    <Street>Zerva</Street>
+    <Number>10</Number>
+  </Receipt>
+  </Receipts>
+</Agent>
